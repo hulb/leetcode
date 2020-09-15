@@ -39,5 +39,14 @@ func main() {
 	// in := []int{1, 2, 3, 4, 5, 10}
 	// fmt.Println(problems.SearchInsert(in, 2))
 
-	fmt.Println(problems.RomanToInt("MCMXCIV"))
+	// fmt.Println(problems.RomanToInt("MCMXCIV"))
+
+	// fmt.Println(problems.CountAndSay(11))
+
+	// fmt.Println(problems.MaxSubArray([]int{-2, 1, -3, 4, -1, 2, 1, -5, 4}))
+	// fmt.Println(problems.MaxSubArray([]int{-2, -1}))
+
+	fmt.Println(problems.MySqrt(8))
+	fmt.Println(problems.MySqrt(9))
+	fmt.Println(problems.MySqrt(10))
 }
